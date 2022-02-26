@@ -4,7 +4,7 @@ Tutorial of Time Series Forecasting using NeuralProphet
 
 ![NeuralProphet](https://user-images.githubusercontent.com/21246060/111388960-6c367e80-866d-11eb-91c1-46f2c0d21879.PNG)
 
-Read blog on NeuralProphet here: [Time-Series Tutorial using NeuralProphet](https://medium.com/@chirag6891/time-series-tutorial-using-neuralprophet-e918a1b437ed)
+Read blog on NeuralProphet here: [Time-Series Tutorial using NeuralProphet](https://medium.com/analytics-vidhya/time-series-tutorial-using-neuralprophet-e918a1b437ed)
 
 ### Prerequisites
  - NeuralProphet
